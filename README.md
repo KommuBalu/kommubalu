@@ -88,7 +88,7 @@ AWS                    █████████████░░░░░░
   <a href="https://linkedin.com/in/balu-kommu-64a81030">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mr_rex_________20">
+  <a href="https://www.instagram.com/mr_rex___________20?igsh=aXZzYzd3MWNnZXBl&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://pin.it/4eWxeCzrm">
