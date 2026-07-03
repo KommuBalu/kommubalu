@@ -85,7 +85,7 @@ AWS                    █████████████░░░░░░
   <a href="mailto:KOMMUPAWAN84@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/balu-kommu-64a81030">
+  <a href="https://www.linkedin.com/in/balu-kommu-64a810309?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mr_rex___________20?igsh=aXZzYzd3MWNnZXBl&utm_source=qr">
@@ -94,7 +94,7 @@ AWS                    █████████████░░░░░░
   <a href="https://pin.it/4eWxeCzrm">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@via_pawan">
+  <a href="https://www.youtube.com/@ViaPawan">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
